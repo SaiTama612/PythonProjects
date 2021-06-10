@@ -12,7 +12,7 @@ It is a caterpiler game made in Python language using Turtule graphics.
 
 ## Screenshot
 
-(https://i.postimg.cc/HnWYgfdm/Screenshot-80.png)
-(https://i.postimg.cc/sxnVDwgh/Screenshot-81.png)
-(https://i.postimg.cc/CMJMNLsx/Screenshot-82.png)
+![Screenshot1](https://i.postimg.cc/HnWYgfdm/Screenshot-80.png)
+![Screenshot2](https://i.postimg.cc/sxnVDwgh/Screenshot-81.png)
+![Screenshot3](https://i.postimg.cc/CMJMNLsx/Screenshot-82.png)
 
